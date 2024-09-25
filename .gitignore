@@ -1,0 +1,14 @@
+# Ignore Git directory
+.git/
+
+# Ignore Maven wrapper files (optional if you don't want them in the repo)
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore IDE settings
+.vscode/
+
+# Ignore build output directories
+target/
+data/
