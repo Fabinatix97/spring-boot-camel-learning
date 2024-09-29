@@ -1,6 +1,9 @@
 # Ignore Git directory
 .git/
 
+# Ignore environment variables
+.env
+
 # Ignore Maven wrapper files (optional if you don't want them in the repo)
 .mvn/
 mvnw
